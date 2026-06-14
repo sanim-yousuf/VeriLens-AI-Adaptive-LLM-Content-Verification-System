@@ -2,6 +2,9 @@
 
 Explainable multilingual trust intelligence for digital content verification.
 
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/1e4cbdab-5d1e-44c8-9d2a-31bf7e9475d7" />
+
+
 VeriLens AI is a cost-aware trust-analysis platform for Bangla, Banglish, and English content. It combines local preprocessing, moderation, adaptive OpenAI model routing, source reputation heuristics, offline fallback, and a React verification dashboard.
 
 ## What Is Implemented
